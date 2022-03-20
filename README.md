@@ -40,6 +40,25 @@
 
    Whenever you DO need the previous value to determine the new value
 
+8. What is "conditional rendering"?
+
+   When we want to only sometimes display something on the page
+   based on a condition of some sort
+
+9. When would you use &&?
+
+    When you want to either display something or NOT display it
+
+
+10. When would you use a ternary?
+
+   When you need to decide which thing among 2 options to display
+
+
+11. What if you need to decide between > 2 options on what to display?
+
+   Use an `if...else if... else` conditional or a `switch` statement
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
