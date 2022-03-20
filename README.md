@@ -1,6 +1,14 @@
 # Meme-Generator
+**Meme generator is an interactive web app**
+
+Meme generator has the following functions:
+1. Reaches out to an API(https://api.imgflip.com/get_memes) and get 100 of the most popular meme images at that time
+2. Gives the user the ability to enter the text that shows up on top and the text shows on bottom 
+3. Provides a button to randomly choose a new meme image
 
 ## Demo
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/61951792/159191164-611e386f-40db-4013-bc34-caa750f832d9.gif)
+
 
 ## Q&A
 1. Describe the concept of "state"?
@@ -109,6 +117,7 @@
 - A way for React to know whether it should re-run the effect function
 
 
+-----------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
