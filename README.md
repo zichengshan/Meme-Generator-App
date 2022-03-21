@@ -1,6 +1,8 @@
 # Meme-Generator
 **Meme generator is an interactive web app**
 
+This app has been deployed, and you can try it through this link: https://main.d3f48jihk9gxt0.amplifyapp.com/
+
 Meme generator has the following functions:
 1. Reaches out to an API(https://api.imgflip.com/get_memes) and get 100 of the most popular meme images at that time
 2. Gives the user the ability to enter the text that shows up on top and the text shows on bottom 
